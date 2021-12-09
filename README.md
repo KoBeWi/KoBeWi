@@ -1,12 +1,12 @@
 ## My Godot assets
 
 - [Palette Swap Shader](https://github.com/KoBeWi/Godot-Palette-Swap-Shader)
+- [Gradient Shift Shader](https://github.com/KoBeWi/Godot-Gradient-Shift-Shader)
 - [Spritesheet Generator](https://github.com/KoBeWi/Godot-Spritesheet-Generator)
 
 WIP (they need proper README)
 
 - [Instance Dock](https://github.com/KoBeWi/Godot-Instance-Dock)
-- [Gradient Shift Shader](https://github.com/KoBeWi/Godot-Gradient-Shift-Shader)
 - [Quick Scenes](https://github.com/KoBeWi/Godot-Quick-Scenes)
 - [Frame Converter](https://github.com/KoBeWi/Godot-Frame-Converter)
 
