@@ -3,6 +3,7 @@
 - [Instance Dock](https://github.com/KoBeWi/Godot-Instance-Dock)
 - [Palette Swap Shader](https://github.com/KoBeWi/Godot-Palette-Swap-Shader)
 - [Gradient Shift Shader](https://github.com/KoBeWi/Godot-Gradient-Shift-Shader)
+- [Action Icon](https://github.com/KoBeWi/Godot-Action-Icon)
 - [Spritesheet Generator](https://github.com/KoBeWi/Godot-Spritesheet-Generator)
 - [Quick Scenes](https://github.com/KoBeWi/Godot-Quick-Scenes)
 - [Frame Converter](https://github.com/KoBeWi/Godot-Frame-Converter)
