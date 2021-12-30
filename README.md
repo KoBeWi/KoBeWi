@@ -3,6 +3,7 @@
 - <img src="https://github.com/KoBeWi/Godot-Instance-Dock/blob/master/Media/Icon.png" width="16" height="16"> [Instance Dock](https://github.com/KoBeWi/Godot-Instance-Dock)
 - <img src="https://github.com/KoBeWi/Godot-Palette-Swap-Shader/blob/master/Media/Icon.png" width="16" height="16"> [Palette Swap Shader](https://github.com/KoBeWi/Godot-Palette-Swap-Shader)
 - <img src="https://github.com/KoBeWi/Godot-Gradient-Shift-Shader/blob/main/Media/Icon.png" width="16" height="16"> [Gradient Shift Shader](https://github.com/KoBeWi/Godot-Gradient-Shift-Shader)
+- <img src="https://github.com/KoBeWi/Godot-Universal-Fade/blob/master/Media/Icon.png" width="16" height="16"> [Universal Fade](https://github.com/KoBeWi/Godot-Universal-Fade)
 - <img src="https://github.com/KoBeWi/Godot-Input-Remap/blob/master/Media/Icon.png" width="16" height="16"> [Controls Remap](https://github.com/KoBeWi/Godot-Input-Remap)
 - <img src="https://github.com/KoBeWi/Godot-Action-Icon/blob/master/Media/Icon.png" width="16" height="16"> [Action Icon](https://github.com/KoBeWi/Godot-Action-Icon)
 - <img src="https://github.com/KoBeWi/Godot-Spritesheet-Generator/blob/master/Media/Icon.png" width="16" height="16"> [Spritesheet Generator](https://github.com/KoBeWi/Godot-Spritesheet-Generator)
