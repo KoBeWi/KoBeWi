@@ -8,6 +8,7 @@
 - <img src="https://github.com/KoBeWi/Godot-Action-Icon/blob/master/Media/Icon.png" width="16" height="16"> [Action Icon](https://github.com/KoBeWi/Godot-Action-Icon)
 - <img src="https://github.com/KoBeWi/Godot-Custom-Runner/blob/master/Media/Icon.png" width="16" height="16"> [Custom Runner](https://github.com/KoBeWi/Godot-Custom-Runner)
 - <img src="https://github.com/KoBeWi/Godot-Spritesheet-Generator/blob/master/Media/Icon.png" width="16" height="16"> [Spritesheet Generator](https://github.com/KoBeWi/Godot-Spritesheet-Generator)
+- <img src="https://github.com/KoBeWi/Godot-Auto-Export-Version/blob/master/Media/Icon.png" width="16" height="16"> [Auto Export Version](https://github.com/KoBeWi/Godot-Auto-Export-Version)
 - <img src="https://github.com/KoBeWi/Godot-Quick-Scenes/blob/master/Media/Icon.png" width="16" height="16"> [Quick Scenes](https://github.com/KoBeWi/Godot-Quick-Scenes)
 - <img src="https://github.com/KoBeWi/Godot-Frame-Converter/blob/master/Media/Icon.png" width="16" height="16"> [Frame Converter](https://github.com/KoBeWi/Godot-Frame-Converter)
 
