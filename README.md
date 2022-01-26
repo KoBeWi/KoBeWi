@@ -6,6 +6,7 @@
 - <img src="https://github.com/KoBeWi/Godot-Universal-Fade/blob/master/Media/Icon.png" width="16" height="16"> [Universal Fade](https://github.com/KoBeWi/Godot-Universal-Fade)
 - <img src="https://github.com/KoBeWi/Godot-Input-Remap/blob/master/Media/Icon.png" width="16" height="16"> [Controls Remap](https://github.com/KoBeWi/Godot-Input-Remap)
 - <img src="https://github.com/KoBeWi/Godot-Action-Icon/blob/master/Media/Icon.png" width="16" height="16"> [Action Icon](https://github.com/KoBeWi/Godot-Action-Icon)
+- <img src="https://github.com/KoBeWi/Godot-Text-Database/blob/master/Media/Icon.png" width="16" height="16"> [Text Database](https://github.com/KoBeWi/Godot-Text-Database)
 - <img src="https://github.com/KoBeWi/Godot-Custom-Runner/blob/master/Media/Icon.png" width="16" height="16"> [Custom Runner](https://github.com/KoBeWi/Godot-Custom-Runner)
 - <img src="https://github.com/KoBeWi/Godot-Spritesheet-Generator/blob/master/Media/Icon.png" width="16" height="16"> [Spritesheet Generator](https://github.com/KoBeWi/Godot-Spritesheet-Generator)
 - <img src="https://github.com/KoBeWi/Godot-Auto-Export-Version/blob/master/Media/Icon.png" width="16" height="16"> [Auto Export Version](https://github.com/KoBeWi/Godot-Auto-Export-Version)
