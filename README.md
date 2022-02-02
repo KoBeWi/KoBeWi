@@ -13,6 +13,7 @@
 - <img src="https://github.com/KoBeWi/Godot-Quick-Scenes/blob/master/Media/Icon.png" width="16" height="16"> [Quick Scenes](https://github.com/KoBeWi/Godot-Quick-Scenes)
 - <img src="https://github.com/KoBeWi/Godot-Slider-Label/blob/master/Media/Icon.png" width="16" height="16"> [Slider Label](https://github.com/KoBeWi/Godot-Slider-Label)
 - <img src="https://github.com/KoBeWi/Godot-Directory-Watcher/blob/master/Media/Icon.png" width="16" height="16"> [Directory Watcher](https://github.com/KoBeWi/Godot-Directory-Watcher)
+- <img src="https://github.com/KoBeWi/Godot-Simple-TODO/blob/master/Media/Icon.png" width="16" height="16"> [Simple TODO](https://github.com/KoBeWi/Godot-Simple-TODO)
 - <img src="https://github.com/KoBeWi/Godot-Frame-Converter/blob/master/Media/Icon.png" width="16" height="16"> [Frame Converter](https://github.com/KoBeWi/Godot-Frame-Converter)
 
 *More coming soon™*
