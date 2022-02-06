@@ -18,6 +18,12 @@
 - <img src="https://github.com/KoBeWi/Godot-Frame-Converter/blob/master/Media/Icon.png" width="16" height="16"> [Frame Converter](https://github.com/KoBeWi/Godot-Frame-Converter)
 
 Also my cool Godot 3.x to 4.0 project converter, written in Ruby: [Another Godot 4 Converter](https://github.com/KoBeWi/Another-Godot-4-Converter)
+___
+### You can support me on Ko-fi if you like what I do:
+
+☕ https://ko-fi.com/kobewi
+
+✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨
 
 ## Some GitHub stats idk
 [![KoBeWi's GitHub stats](https://github-readme-stats.vercel.app/api?username=KoBeWi&show_icons=true&theme=tokyonight&custom_title=My%20GitHub%20stats)](https://github.com/anuraghazra/github-readme-stats)
