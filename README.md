@@ -19,11 +19,8 @@
 
 Also my cool Godot 3.x to 4.0 project converter, written in Ruby: [Another Godot 4 Converter](https://github.com/KoBeWi/Another-Godot-4-Converter)
 ___
-### You can support me on Ko-fi if you like what I do:
-
-☕ https://ko-fi.com/kobewi
-
-✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨
+### You can support me on Ko-fi if you like what I do
+<a href='https://ko-fi.com/W7W7AD4W4' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 ## Some GitHub stats idk
 [![KoBeWi's GitHub stats](https://github-readme-stats.vercel.app/api?username=KoBeWi&show_icons=true&theme=tokyonight&custom_title=My%20GitHub%20stats)](https://github.com/anuraghazra/github-readme-stats)
