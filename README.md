@@ -1,5 +1,6 @@
 ## My Godot assets (also available in the official [AssetLib](https://godotengine.org/asset-library/asset?user=KoBeWi))
 
+- ![GitHub Repo stars](https://img.shields.io/github/stars/kobewi/Godot-Universal-Mod-Manager?label=%E2%AD%90&style=plastic) [Universal Mod Manager](https://github.com/KoBeWi/Godot-Instance-Dock)  
 - <img src="https://github.com/KoBeWi/Godot-Instance-Dock/blob/master/Media/Icon.png" width="16" height="16"> ![GitHub Repo stars](https://img.shields.io/github/stars/kobewi/Godot-Instance-Dock?label=%E2%AD%90&style=plastic) [Instance Dock](https://github.com/KoBeWi/Godot-Instance-Dock)    
 - <img src="https://github.com/KoBeWi/Godot-Palette-Swap-Shader/blob/master/Media/Icon.png" width="16" height="16"> ![GitHub Repo stars](https://img.shields.io/github/stars/kobewi/Godot-Palette-Swap-Shader?label=%E2%AD%90&style=plastic) [Palette Swap Shader](https://github.com/KoBeWi/Godot-Palette-Swap-Shader)
 - <img src="https://github.com/KoBeWi/Godot-Gradient-Shift-Shader/blob/master/Media/Icon.png" width="16" height="16"> ![GitHub Repo stars](https://img.shields.io/github/stars/kobewi/Godot-Gradient-Shift-Shader?label=%E2%AD%90&style=plastic) [Gradient Shift Shader](https://github.com/KoBeWi/Godot-Gradient-Shift-Shader)
