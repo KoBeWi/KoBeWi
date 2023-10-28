@@ -1,5 +1,6 @@
 ## My Godot assets (also available in the official [AssetLib](https://godotengine.org/asset-library/asset?user=KoBeWi))
 
+- <img src="https://raw.githubusercontent.com/KoBeWi/Metroidvania-System/master/Media/Icon.png" width="16" height="16"> ![GitHub Repo stars](https://img.shields.io/github/stars/kobewi/Metroidvania-System?label=%E2%AD%90&style=plastic) [Metroidvania System](https://github.com/KoBeWi/Metroidvania-System)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/kobewi/Godot-Universal-Mod-Manager?label=%E2%AD%90&style=plastic) [Universal Mod Manager](https://github.com/KoBeWi/Godot-Universal-Mod-Manager)
 - <img src="https://raw.githubusercontent.com/KoBeWi/Godot-Instance-Dock/master/Media/Icon.png" width="16" height="16"> ![GitHub Repo stars](https://img.shields.io/github/stars/kobewi/Godot-Instance-Dock?label=%E2%AD%90&style=plastic) [Instance Dock](https://github.com/KoBeWi/Godot-Instance-Dock)
 - <img src="https://raw.githubusercontent.com/KoBeWi/Godot-Palette-Swap-Shader/master/Media/Icon.png" width="16" height="16"> ![GitHub Repo stars](https://img.shields.io/github/stars/kobewi/Godot-Palette-Swap-Shader?label=%E2%AD%90&style=plastic) [Palette Swap Shader](https://github.com/KoBeWi/Godot-Palette-Swap-Shader)
