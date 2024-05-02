@@ -1,6 +1,7 @@
 ## My Godot assets (also available in the official [AssetLib](https://godotengine.org/asset-library/asset?user=KoBeWi))
 
 - <img src="https://raw.githubusercontent.com/KoBeWi/Metroidvania-System/master/Media/Icon.png" width="16" height="16"> ![GitHub Repo stars](https://img.shields.io/github/stars/kobewi/Metroidvania-System?label=%E2%AD%90&style=plastic) [Metroidvania System](https://github.com/KoBeWi/Metroidvania-System)
+- <img src="https://raw.githubusercontent.com/KoBeWi/Godot-Project-Builds/master/Icons/Icon.png" width="16" height="16"> ![GitHub Repo stars](https://img.shields.io/github/stars/kobewi/Godot-Project-Builds?label=%E2%AD%90&style=plastic) [Project Builder](https://github.com/KoBeWi/Godot-Project-Builds)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/kobewi/Godot-Universal-Mod-Manager?label=%E2%AD%90&style=plastic) [Universal Mod Manager](https://github.com/KoBeWi/Godot-Universal-Mod-Manager)
 - <img src="https://raw.githubusercontent.com/KoBeWi/Godot-Instance-Dock/master/Media/Icon.png" width="16" height="16"> ![GitHub Repo stars](https://img.shields.io/github/stars/kobewi/Godot-Instance-Dock?label=%E2%AD%90&style=plastic) [Instance Dock](https://github.com/KoBeWi/Godot-Instance-Dock)
 - <img src="https://raw.githubusercontent.com/KoBeWi/Godot-Tween-Suite/master/Media/Icon.png" width="16" height="16"> ![GitHub Repo stars](https://img.shields.io/github/stars/kobewi/Godot-Tween-Suite?label=%E2%AD%90&style=plastic) [Tween Suite](https://github.com/KoBeWi/Godot-Tween-Suite)
