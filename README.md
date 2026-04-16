@@ -22,9 +22,6 @@
 - <img src="https://raw.githubusercontent.com/KoBeWi/Godot-Simple-TODO/master/Media/Icon.png" width="16" height="16"> ![GitHub Repo stars](https://img.shields.io/github/stars/kobewi/Godot-Simple-TODO?label=%E2%AD%90&style=plastic) [Simple TODO](https://github.com/KoBeWi/Godot-Simple-TODO)
 - <img src="https://raw.githubusercontent.com/KoBeWi/Godot-Ref-Serializer/master/Media/Icon.png" width="16" height="16"> ![GitHub Repo stars](https://img.shields.io/github/stars/kobewi/Godot-Ref-Serializer?label=%E2%AD%90&style=plastic) [Ref Serializer](https://github.com/KoBeWi/Godot-Ref-Serializer)
 - <img src="https://raw.githubusercontent.com/KoBeWi/Godot-Prefab/master/Media/Icon.png" width="16" height="16"> ![GitHub Repo stars](https://img.shields.io/github/stars/kobewi/Godot-Prefab?label=%E2%AD%90&style=plastic) [Prefab](https://github.com/KoBeWi/Godot-Prefab)
-- <img src="https://raw.githubusercontent.com/KoBeWi/Godot-Frame-Converter/master/Media/Icon.png" width="16" height="16"> ![GitHub Repo stars](https://img.shields.io/github/stars/kobewi/Godot-Frame-Converter?label=%E2%AD%90&style=plastic) [Frame Converter](https://github.com/KoBeWi/Godot-Frame-Converter)
-
-Also my cool Godot 3.x to 4.0 project converter, written in Ruby: [Another Godot 4 Converter](https://github.com/KoBeWi/Another-Godot-4-Converter)
 ___
 ### You can support me on Ko-fi if you like what I do
 <a href='https://ko-fi.com/W7W7AD4W4' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
